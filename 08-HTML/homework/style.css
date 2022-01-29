@@ -9,9 +9,10 @@ img{
 	width: 500 px;
 	background-color: black;
 	padding: 50 px;
-	border: violet;
+	border: 10 px solid violet;
 }
 #spanId{
+	font-size: 18 px;
 	color: orange;
 	margin: 50 px;
 }
